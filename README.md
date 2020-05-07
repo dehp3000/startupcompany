@@ -6,6 +6,8 @@ Public repository for hosting documentation.
 
 This will be a repo of modding information and examples I will create to help others who wish to mod this game.
 
+***furnituremod.zip*** <-- This is the developers example mod.
+ 
  ***mod.json*** <-- This is just who you are and what your mod does.
  
  ***start.js*** <-- This is the meat your main js file.
